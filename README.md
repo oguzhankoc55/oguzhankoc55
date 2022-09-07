@@ -1,6 +1,6 @@
 # Hi there I'm Oğuzhan Koç
 
-🔭 I’m currently working on .Net Core and Python
+🔭 I’m currently working on C# and Python
 
 🌱 I’m currently learning Machine Learning
 
