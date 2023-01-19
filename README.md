@@ -28,6 +28,6 @@
 <a > <img src="https://user-images.githubusercontent.com/58952369/180606741-c99caac4-0ee5-4d5f-abd2-249c8effd495.png"  width="40" height="40"/> </a>
       
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzhankoc55&show_icons=true&theme=dark&locale=en&layout=compact" alt="oguzhankoc55" />
-</p><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=oguzhankoc55&show_icons=true&theme=dark&title_color=f2f2f2&text_color=009999&locale=en" alt="oguzhankoc55" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzhankoc55&show_icons=true&theme=transparent)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhankoc55&langs_count=8)](https://github.com/oguzhankoc55/github-readme-stats)
